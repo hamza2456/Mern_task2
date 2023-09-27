@@ -1,2 +1,1 @@
-# Mern_task2
-All task of mern
+BS_And_JS_Task
